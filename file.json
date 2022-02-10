@@ -1,0 +1,14 @@
+{
+    "Amenity.be1589ff-d2be-4a9b-91ce-305aaff740e9": {
+        "id": "be1589ff-d2be-4a9b-91ce-305aaff740e9",
+        "created_at": "2022-02-09T23:33:28.452964",
+        "updated_at": "2022-02-09T23:33:28.452995",
+        "__class__": "Amenity"
+    },
+    "Amenity.95dff940-c45f-4fdb-9ce2-1c8677ffb0ee": {
+        "id": "95dff940-c45f-4fdb-9ce2-1c8677ffb0ee",
+        "created_at": "2022-02-10T00:00:25.925110",
+        "updated_at": "2022-02-10T00:00:25.925148",
+        "__class__": "Amenity"
+    }
+}

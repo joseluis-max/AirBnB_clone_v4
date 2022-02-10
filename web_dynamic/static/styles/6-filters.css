@@ -50,6 +50,9 @@ button:hover {
     height: 100%;
     width: 25%;
 }
+.amenities .check {
+    margin-right: 10px;
+}
 
 .popover {
     visibility: hidden;
